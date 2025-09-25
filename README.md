@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloViniegra
-- 👀 I’m mainly interested in Backend technologies
-- 🌱 I’m currently learning Python, Power Automate Desktop, C#, Azure Function, Form Recognizer, Power Apps.. etc
+- 👀 I’m mainly interested in Web Development. I'm a full stack developer.
+- 🌱 I’m currently learning Rust, N8N, Svelte ... etc
 - 💞️ At the moment I am not looking to collaborate on projects...
 
 
