@@ -1,90 +1,66 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=D60000&center=true&vCenter=true&width=435&lines=Hola!+Soy+Pablo+Viniegra;FullStack+Developer;Python+%7C+Vue+%7C+React;Software+Engineer+@+Indra" alt="Typing SVG" />
-  </a>
-</div>
+# Pablo Viniegra
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" style="border-radius: 10px;" />
-</div>
+Ingeniero de software full stack · Móstoles, Madrid
 
-<div align="center">
-  <h3>🔥 Sobre mí</h3>
-</div>
+Construyo productos web y modernizo aplicaciones que ya están en uso. Trabajo en Minsait (Indra) para BBVA, con Vue.js, React y Python. Me interesa tanto cómo se usa una aplicación como lo que cuesta mantenerla.
 
-¡Hola! Soy **Pablo**, desarrollador Full Stack ubicado en **Móstoles, Madrid**. Actualmente trabajo como **Software Developer en Minsait (Indra)**, desarrollando y optimizando proyectos internos para **BBVA**.
+[Portfolio y casos de estudio](https://pabloviniegra.dev/) · [LinkedIn](https://www.linkedin.com/in/pablo-viniegra-picazo/) · [Escríbeme](mailto:pablovpmadrid@gmail.com)
 
-Me apasiona crear experiencias digitales excepcionales, desde aplicaciones web robustas hasta herramientas de automatización.
+## El tipo de problemas en los que trabajo
 
-- 🔭 Actualmente trabajo con **Python, Flask y Vue 2** en entornos corporativos.
-- 🚀 En mis proyectos personales exploro **Modern Stack** (NextJS, Astro, FastAPI).
-- 🌱 Estoy profundizando en **Rust** y automatización con **N8N**.
-- 🥅 Objetivo: Seguir creciendo en **Arquitectura de Software** y **Cloud**.
-- ⚡ Dato curioso: Mi color es el rojo, como verás en estas estadísticas 👇.
+- Aplicaciones internas que necesitan cargar mejor: optimización de datos, renderizado virtualizado y eliminación de re-renders innecesarios.
+- Código que tiene que seguir funcionando mientras evoluciona: migraciones de Vue 2 a Vue 3 y testing en proyectos heredados.
+- Equipos que quieren trabajar con agentes: flujos compartidos en el repositorio con `AGENTS.md`, skills, hooks y servidores MCP.
 
----
+Antes, en Imagar, desarrollé integraciones para AENA y aerolíneas, además de automatizaciones con Azure y Power Platform.
 
-<div align="center">
-  <h3>🛠️ Arsenal Tecnológico</h3>
-  
-  <p><strong>💻 Stack Diario (Trabajo)</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,vue,js,ts,docker,mysql&theme=dark" />
-  </a>
+## Fuera del trabajo, también construyo
 
-  <p><strong>🚀 Proyectos Personales & Side Hustles</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,astro,vite,git&theme=dark" />
-  </a>
+### Santa App · Un sorteo con reglas reales
 
-  <p><strong>🧠 Aprendiendo / Ocasional / Legacy</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,java,spring,cs,dotnet,postman,linux&theme=dark" />
-  </a>
-</div>
+Organizar un Amigo Invisible se complica cuando hay parejas, exclusiones y participantes que no deberían repetirse de un año a otro. Santa App reúne eventos, reglas del sorteo, listas de deseos y notificaciones por correo.
 
----
+Nuxt / Vue / TypeScript / PostgreSQL / Drizzle / Better Auth
 
-<div align="center">
-  <h3>🏆 Proyectos Destacados</h3>
-  
-| **Daily-Ideas** | **GasoLink** | **PromptLazy** |
-|:---:|:---:|:---:|
-| 🧠 Generador de ideas con IA | ⛽ Buscador de gasolineras baratas | 💤 Optimizador de Prompts |
-| `NextJS` `FastAPI` `Python` | `Tauri` `React` `Typescript` | `Vue` `Python` `Tailwind` |
-| [🔗 Ver Repo](https://github.com/PabloViniegra/daily-ideas-frontend) | [🔗 Ver Repo](https://github.com/PabloViniegra/gasolink-app) | [🔗 Ver Repo](https://github.com/PabloViniegra/promptlazy-frontend) |
+[Probar Santa App](https://santa-app.pabloviniegra.dev/) · [Leer el caso de estudio](https://pabloviniegra.dev/projects/santa-app)
 
-</div>
+### Tier Maker · Clasificaciones que puedes guardar y compartir
 
-<br>
+Un editor de tier lists con presets, exportación a PNG y recuperación local del trabajo. Incluye exploración pública y likes para compartir las clasificaciones.
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PabloViniegra&show_icons=true&theme=radical&icon_color=ff0000&text_color=ffffff&bg_color=1a1b27&hide_border=true" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloViniegra&layout=compact&theme=radical&text_color=ffffff&bg_color=1a1b27&hide_border=true&langs_count=6" height="180" alt="languages graph" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloViniegra&theme=radical&hide_border=true&fire=FF0000&ring=FF0000&currStreakLabel=FF0000&background=1a1b27" alt="streak graph" />
-  </p>
-</div>
+Next.js / React / TypeScript / PostgreSQL / Drizzle / Better Auth
 
----
+[Crear una tier list](https://tiermaker.pabloviniegra.dev/) · [Leer el caso de estudio](https://pabloviniegra.dev/projects/tier-maker) · [Código](https://github.com/PabloViniegra/tier-maker)
 
-<div align="center">
-  <h3>🤝 Conectemos</h3>
-  
-  <p>
-    <a href="https://portfolio-pablo-viniegra.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/pablo-viniegra-picazo/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:pablovpmadrid@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+### Ollama-Fit · Antes de descargar otro modelo
+
+Una herramienta de terminal para estimar qué modelos locales encajan en tu equipo. Incluye TUI, comandos `fit`, `local` y `doctor`, salida JSON y binarios multiplataforma. Sus resultados son estimaciones de compatibilidad, no benchmarks.
+
+Go
+
+[Descargar Ollama-Fit](https://github.com/PabloViniegra/tui-ollama-go/releases) · [Leer el caso de estudio](https://pabloviniegra.dev/projects/ollama-fit) · [Código](https://github.com/PabloViniegra/tui-ollama-go)
+
+## Agentes dentro del repositorio
+
+Uso Claude Code, MCPs y Agent Skills para escribir código, revisar cambios y operar sobre repositorios. También trabajo con OpenCode y GitHub Copilot CLI para tareas puntuales.
+
+En BBVA he implantado un flujo agéntico compartido por el equipo, aplicado a migraciones y testing de código heredado. Versiono las instrucciones y herramientas junto al código para que el resto del equipo pueda usarlas.
+
+[Cómo trabajo con agentes y qué he aplicado en el equipo](https://pabloviniegra.dev/#ai)
+
+## Herramientas según el problema
+
+| Área | Tecnologías |
+| --- | --- |
+| Interfaz | Vue.js, React, TypeScript, Next.js, Astro, Tailwind CSS |
+| Backend e integraciones | Python, Flask, FastAPI, .NET |
+| Datos | PostgreSQL, SQL Server, MySQL, MongoDB |
+| Despliegue | Docker, Azure, Google Cloud, Git |
+
+Certificaciones: Google Cloud Digital Leader (2025) y Microsoft Power Platform Developer Associate (2024).
+
+## Hablemos
+
+Estoy disponible para unirme a un equipo de producto.
+
+[Escríbeme](mailto:pablovpmadrid@gmail.com) · [Consulta mi CV](https://pabloviniegra.dev/CV/CV_2026.pdf)
