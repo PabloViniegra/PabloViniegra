@@ -1,23 +1,24 @@
-# Hola, soy Pablo
+<div align="center">
 
-Ingeniero de software full stack · Móstoles, Madrid
+<h1>Hola, soy Pablo</h1>
+
+<p><strong>Ingeniero de software full stack · Móstoles, Madrid</strong></p>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Meme de programación recuperado del README original" />
+
+<p><em>Cuando el bug desaparece al poner un console.log.</em></p>
+
+<p>
+  <a href="https://pabloviniegra.dev/">Portfolio y casos de estudio</a> ·
+  <a href="https://www.linkedin.com/in/pablo-viniegra-picazo/">LinkedIn</a> ·
+  <a href="mailto:pablovpmadrid@gmail.com">Escríbeme</a>
+</p>
+
+</div>
 
 Hago aplicaciones web, modernizo las que ya existen y trabajo con agentes dentro del repositorio. A veces todo eso significa averiguar por qué un componente se ha renderizado otra vez.
 
 Trabajo en Minsait (Indra) para BBVA con Vue.js, React y Python. Por aquí encontrarás proyectos personales, herramientas de terminal y alguna excusa para abrir otro repositorio.
-
-[Portfolio y casos de estudio](https://pabloviniegra.dev/) · [LinkedIn](https://www.linkedin.com/in/pablo-viniegra-picazo/) · [Escríbeme](mailto:pablovpmadrid@gmail.com)
-
-<details>
-<summary>Cuando el bug desaparece al poner un console.log</summary>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="GIF de alguien tecleando frenéticamente, recuperado del README original" />
-</p>
-
-Cerrar ticket: no reproducible. Cerrar desplegable: recomendable.
-
-</details>
 
 ## Mi relación con el código heredado es seria
 
@@ -33,6 +34,10 @@ Antes, en Imagar, desarrollé integraciones para AENA y aerolíneas, además de 
 
 ### Santa App
 
+<a href="https://pabloviniegra.dev/projects/santa-app">
+  <img src="assets/santa-app.webp" width="600" alt="Captura de Santa App: panel de eventos de Amigo Invisible y acceso a crear un sorteo" />
+</a>
+
 El Amigo Invisible parece fácil hasta que aparecen las parejas, las exclusiones y el «a mí me tocó esa persona el año pasado». Santa App reúne eventos, reglas del sorteo, listas de deseos y notificaciones por correo.
 
 Nuxt / Vue / TypeScript / PostgreSQL / Drizzle / Better Auth
@@ -41,6 +46,10 @@ Nuxt / Vue / TypeScript / PostgreSQL / Drizzle / Better Auth
 
 ### Tier Maker
 
+<a href="https://pabloviniegra.dev/projects/tier-maker">
+  <img src="assets/tier-maker.webp" width="600" alt="Captura de Tier Maker: panel con las clasificaciones guardadas y sus miniaturas" />
+</a>
+
 Para poner cosas en tier S y discutirlo después. Un editor de tier lists con presets, exportación a PNG y recuperación local del trabajo. Incluye exploración pública y likes para compartir las clasificaciones.
 
 Next.js / React / TypeScript / PostgreSQL / Drizzle / Better Auth
@@ -48,6 +57,10 @@ Next.js / React / TypeScript / PostgreSQL / Drizzle / Better Auth
 [Crear una tier list](https://tiermaker.pabloviniegra.dev/) · [Leer el caso de estudio](https://pabloviniegra.dev/projects/tier-maker) · [Código](https://github.com/PabloViniegra/tier-maker)
 
 ### Ollama-Fit
+
+<a href="https://pabloviniegra.dev/projects/ollama-fit">
+  <img src="assets/ollama-fit.webp" width="600" alt="Captura de Ollama-Fit: interfaz de terminal con modelos locales, memoria estimada y compatibilidad" />
+</a>
 
 Antes de descargar otro modelo que no cabe en tu equipo, mejor echar cuentas. Ollama-Fit estima qué modelos locales encajan en tu hardware desde la terminal: TUI, comandos `fit`, `local` y `doctor`, salida JSON y binarios multiplataforma.
 
