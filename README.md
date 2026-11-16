@@ -120,7 +120,7 @@ Certificaciones: Google Cloud Digital Leader (2025) y Microsoft Power Platform D
 
 ## Actividad en GitHub
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=PabloViniegra&amp;theme=summer&amp;style=erased" width="100%" alt="Mapa de contribuciones de Pablo Viniegra en el último año" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloViniegra&bg_color=1a1410&color=d98a3d&line=d98a3d&point=f5c46b&area=true&area_color=d98a3d&hide_border=true&radius=20" width="100%" alt="Gráfico de contribuciones de Pablo Viniegra en el último año" />
 
 ## ¿Hablamos?
 
