@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://pabloviniegra.dev/">
-  <img src="https://www.gitskins.com/api/section/hero?username=PabloViniegra&amp;theme=summer&amp;style=aura" width="100%" alt="Pablo Viniegra · ingeniero de software full stack" />
+  <img src="assets/hero.svg" width="100%" alt="Pablo Viniegra · ingeniero de software full stack" />
 </a>
 
 <p>
